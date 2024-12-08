@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,107): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,107): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,107): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,107): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,107): warning C4244:         ]
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,101): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,101): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,101): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,101): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\main.cpp(33,101): warning C4244:         ]
+  Perspec.vcxproj -> C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Perspec\x64\Debug\Perspec.exe

@@ -1,0 +1,22 @@
+﻿  mainTDC.cpp
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,107): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,107): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,107): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,107): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,107): warning C4244:         ]
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,101): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,101): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,101): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,101): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(47,101): warning C4244:         ]
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,107): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,107): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,107): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,107): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,107): warning C4244:         ]
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,101): warning C4244: "argument": konwersja z "float" do "_Tp", możliwa utrata danych
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,101): warning C4244:         with
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,101): warning C4244:         [
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,101): warning C4244:             _Tp=int
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\mainTDC.cpp(48,101): warning C4244:         ]
+  TDCperspec.vcxproj -> C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\PerspectivaTDC\TDCperspec\x64\Debug\TDCperspec.exe

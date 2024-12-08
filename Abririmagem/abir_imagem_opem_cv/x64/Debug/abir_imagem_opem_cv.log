@@ -1,0 +1,3 @@
+﻿  abrirWebcam.cpp
+main.obj : error LNK2005: Element main jest już zdefiniowany w elemencie abrirWebcam.obj
+C:\Users\pablo\OneDrive\Desktop\OPENCVCPPTDCWORKSHOPP\Aulas\Abririmagem\abir_imagem_opem_cv\x64\Debug\abir_imagem_opem_cv.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
